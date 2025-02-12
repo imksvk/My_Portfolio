@@ -297,7 +297,7 @@ section{
 .arrow{
     position: absolute;
     right: -5rem;
-    bottom: -5rem;
+    bottom: -1rem;
 }
 
 
@@ -328,8 +328,10 @@ section{
 
 .section__text_p1_about{
     margin-left: 49rem;
+    /* margin-top: 40rem; */
 }
 
 .titleabout{
     margin-left: 50rem;
 }
+
