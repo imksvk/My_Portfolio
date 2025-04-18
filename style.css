@@ -1,6 +1,7 @@
 *{
     margin:0;
     padding:0;
+
 }
  
  
@@ -469,3 +470,20 @@ article .icon{
     height: 2.5rem;
 }
 
+
+
+
+
+.darkmodebtn{
+    cursor: pointer;
+}
+
+.darkmode {
+    background-color: black;  /* Set background to black */
+    color: white;  /* Set text color to white */
+}
+
+.darkmode * {
+    color: inherit;  /* Inherit the text color from body */
+    background-color: inherit;  /* Inherit the background color from body */
+}
